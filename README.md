@@ -1,5 +1,5 @@
 
-Hi! I'm Vaishali Sharma, a passionate data analyst with experience in transforming raw data into meaningful insights. 
+Hi! I'm Vaishali Sharma, a passionate analyst with experience in transforming raw data into meaningful insights. 
 
 Welcome to my GitHub! I am passionate about transforming complex data into insightful, actionable solutions. With a background in data analytics, business intelligence, and cloud technologies, I specialize in creating impactful dashboards, optimizing ETL processes, and driving data-driven decision-making. As I continue to enhance my expertise in tools like Power BI, SQL, and Python. 
 
